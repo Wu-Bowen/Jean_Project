@@ -4,7 +4,7 @@
 
 /* Links */
 html {
-  height: 200%;
+  height: fit-content;
 }
 a,
 a:focus,
